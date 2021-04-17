@@ -22,7 +22,6 @@ service:
   - name: Engagement
     icon: ti-package
     content: Tell the story of where your life together began.
-  - name: Networking
+  - name: Pets
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: If your pet is a big part of your life, have photos worth framing.
