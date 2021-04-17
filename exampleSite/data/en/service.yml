@@ -11,10 +11,10 @@ service:
   - name: Portraitures
     icon: ti-layout
     content: Do you need senior photos?  Or perhaps photos for your deployed family?
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Family Photos
+    icon: ti-family
+    content: Having a family reunion?  It's a great time to capture the memories as
+      well as getting photos of each nuclear family.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
