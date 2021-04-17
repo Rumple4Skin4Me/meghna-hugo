@@ -19,10 +19,9 @@ service:
     icon: ti-palette
     content: Mark special anniversaries in your family by giving the gift of professional
       photos.
-  - name: Apps Development
+  - name: Engagement
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Tell the story of where your life together began.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
