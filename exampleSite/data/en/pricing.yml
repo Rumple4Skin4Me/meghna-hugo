@@ -3,6 +3,11 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: Engagement
+    price: "500"
+    unit: 2 hours
+    services: ''
+    button: ''
   - name: Wedding
     price: "$3,000"
     unit: 10 hours
