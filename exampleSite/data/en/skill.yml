@@ -1,26 +1,16 @@
-################################# Skill ##################################
+---
 skill:
-  enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
-  skill_item :
-    # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
-    # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
-    # skill item loop
-    - name :  Android Development
-      percent : 75%
+  enable: true
+  title: Our Skills
+  subtitle: We’re skilled in a wide range of genres including event, portraiture,
+    candid, pet, macro, street, food, nature and landscape.
+  content: Most of my professional work is for weddings, portraitures, and pets using
+    digital.  I also develop film for myself and clients.
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: Weddings
+    percent: 50%
+  - name: Portraiture
+    percent: 40%
+  - name: Pets
+    percent: 5%
