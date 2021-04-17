@@ -6,7 +6,8 @@ pricing:
   - name: Portraits
     price: "350"
     unit: 1 hour
-    services: ''
+    services:
+    - additional coverage $75/hr
     button: ''
   - name: Wedding
     price: "$3,000"
