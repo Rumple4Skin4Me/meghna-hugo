@@ -3,6 +3,11 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: 2nd Shooter
+    price: "500"
+    unit: per photographer
+    services: ''
+    button: ''
   - name: Engagement
     price: "$300"
     unit: 1 hour
