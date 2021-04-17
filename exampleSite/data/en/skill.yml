@@ -9,8 +9,8 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: Weddings
-    percent: 50%
+    percent: 90%
   - name: Portraiture
-    percent: 40%
+    percent: 65%
   - name: Pets
-    percent: 5%
+    percent: 15%
