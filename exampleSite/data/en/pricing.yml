@@ -3,12 +3,6 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Portraits
-    price: "350"
-    unit: 1 hour
-    services:
-    - additional coverage $75/hr
-    button: ''
   - name: Wedding
     price: "$3,000"
     unit: 10 hours
@@ -57,4 +51,10 @@ pricing:
     price: "500"
     unit: per photographer
     services: ''
+    button: ''
+  - name: Portraits
+    price: "350"
+    unit: 1 hour
+    services:
+    - additional coverage $75/hr
     button: ''
