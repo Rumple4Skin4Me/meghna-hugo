@@ -18,8 +18,8 @@ portfolio:
     content: Engagement photos, weddings, anniversaries...
     link: https://www.joshthompson.photo/work/soria-antoine-9nt82
   - name: Pet
-    image: images/portfolio/portfol
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/Annie.jpg
+    image_webp: images/Annie.jpg
     categories:
     - design
     - photography
