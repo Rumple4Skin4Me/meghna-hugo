@@ -5,9 +5,7 @@ banner:
   bg_image: images/rose.jpg
   icon: ''
   title: Josh Thompson Photography
-  content: |-
-    Specialist in Weddings and Portraits
-    Passion is Nature Photography
+  content: "Specialist in Weddings and Portraits; \nPassion is Nature Photography"
   button:
     enable: true
     label: Explore Us
