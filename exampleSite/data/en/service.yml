@@ -8,10 +8,9 @@ service:
     content: I provide several different packages covering the wedding itself, as
       well as preparation, reception, and groom/bridal parties depending on the scope
       of your wedding.
-  - name: Responsive Design
+  - name: Portraitures
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Do you need senior photos?  Or perhaps photos for your deployed family?
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
