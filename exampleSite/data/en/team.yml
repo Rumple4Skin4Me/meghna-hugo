@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: The Team
   team_member:
   - name: Josh Thompson
     image_webp: images/team/team-1.webp
