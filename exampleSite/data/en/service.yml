@@ -9,19 +9,19 @@ service:
       well as preparation, reception, and groom/bridal parties depending on the scope
       of your wedding.
   - name: Portraitures
-    icon: ti-layout
+    icon: ti-frame
     content: Do you need senior photos?  Or perhaps photos for your deployed family?
   - name: Family Photos
     icon: ti-family
     content: Having a family reunion?  It's a great time to capture the memories as
       well as getting photos of each nuclear family.
   - name: Anniversaries
-    icon: ti-palette
+    icon: ti-calendar
     content: Mark special anniversaries in your family by giving the gift of professional
       photos.
   - name: Engagement
-    icon: ti-package
+    icon: ti-ring
     content: Tell the story of where your life together began.
   - name: Pets
-    icon: ti-pulse
+    icon: ti-dog
     content: If your pet is a big part of your life, have photos worth framing.
