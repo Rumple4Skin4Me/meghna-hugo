@@ -5,6 +5,8 @@ contact:
   subtitle: Contact Details
   content: ''
   contact_list:
+  - icon: Instagram
+    info: "@JoshThompson.Photo"
   - icon: ti-location-pin
     info: Rome, NY, USA
   - icon: ti-mobile
