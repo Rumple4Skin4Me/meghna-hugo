@@ -4,8 +4,8 @@ team:
   title: The Team
   team_member:
   - name: Josh Thompson
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
+    image_webp: images/Josh.jpg
+    image: images/Josh.jpg
     designation: Owner
     content: Professional photographer for 8 years, working independently and with
       other teams.
