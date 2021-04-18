@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Our Plans
+  title: Price Schedule
   pricing_table:
   - name: Wedding
     price: "$1,900"
