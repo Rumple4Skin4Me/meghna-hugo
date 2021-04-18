@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Portfolio
   portfolio_item:
+  - name: josh
+    image: images/josh.jpg
+    image_webp: images/josh.jpg
+    categories:
+    - josh
+    content: josh
+    link: ''
   - name: Portraits
     image: images/Alison_1058.jpg
     image_webp: images/Alison_1058.jpg
