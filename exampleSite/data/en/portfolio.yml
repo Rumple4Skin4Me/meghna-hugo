@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: ''
+    image: images/portfolio-10.jpg
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
   - name: Tag Design
     image: images/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
