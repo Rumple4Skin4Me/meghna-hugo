@@ -48,13 +48,13 @@ portfolio:
     - portrait
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
-  - name: Bottol Label
+  - name: ''
     image: images/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
     - portrait
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: ''
+    link: https://www.instagram.com/joshthompson.photo/
   - name: Shopping Bag
     image: images/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
