@@ -48,7 +48,7 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
+    image: images/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
     categories:
     - development
