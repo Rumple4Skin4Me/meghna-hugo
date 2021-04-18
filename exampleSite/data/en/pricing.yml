@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: true
+  enable: false
   title: Price Schedule
   pricing_table:
   - name: Wedding
