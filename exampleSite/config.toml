@@ -127,8 +127,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-gallery"
-link = "https://www.joshthompson.photo/work"
-[[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/joshthompson.photo/"
+[[params.social]]
+icon = "ti-gallery"
+link = "https://www.joshthompson.photo/work"
