@@ -30,7 +30,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Another Package
+  - name: Other Packages
     price: "$"
     unit: day
     services:
