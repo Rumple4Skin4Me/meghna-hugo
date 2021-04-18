@@ -22,7 +22,7 @@ pricing:
     - "$300 / 1 hr"
     button: ''
   - name: 2nd Shooter
-    price: "500"
+    price: "$500"
     unit: per photographer
     services: ''
     button: ''
