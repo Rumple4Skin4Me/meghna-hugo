@@ -16,7 +16,7 @@ pricing:
       label: Signup
       link: "#"
   - name: Engagement
-    price: "500"
+    price: "$500"
     unit: 2 hours
     services:
     - "$300 / 1 hr"
