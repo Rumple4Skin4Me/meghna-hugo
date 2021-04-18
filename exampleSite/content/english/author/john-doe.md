@@ -5,9 +5,6 @@ email: Josh@JoshThompson.photo
 social:
 - icon: ti-instagram
   link: "#@JoshThompson.Photo"
-- icon: ti-twitter-alt
-  link: "#"
-- icon: ti-github
-  link: "#"
+draft: true
 
 ---
