@@ -45,10 +45,11 @@ portfolio:
     - Weddings
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
-  - name: ''
+  - name: weddings
     image: images/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
-    categories: []
+    categories:
+    - wedding
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
   - name: Weddings
