@@ -58,10 +58,9 @@ portfolio:
     - Weddings
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
-  - name: ''
+  - name: Portrait
     image: images/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - portraits
+    categories: []
     content: ''
     link: ''
