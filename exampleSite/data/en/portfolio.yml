@@ -62,6 +62,7 @@ portfolio:
   - name: Portrait
     image: images/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories: []
+    categories:
+    - portrait
     content: ''
     link: ''
