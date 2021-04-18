@@ -55,13 +55,13 @@ portfolio:
     - portrait
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
-  - name: Shopping Bag
+  - name: ''
     image: images/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
     - Weddings
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: ''
+    link: https://www.instagram.com/joshthompson.photo/
   - name: Tag Design
     image: images/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
