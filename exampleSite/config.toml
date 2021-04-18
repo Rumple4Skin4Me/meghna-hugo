@@ -35,7 +35,7 @@ url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
 name = "FAQ"
-url = "#FAQ"
+url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
@@ -74,7 +74,7 @@ url = "#pricing"
 weight = 5
 [[Languages.fr.menu.main]]
 name = "FAQ"
-url = "#FAQ"
+url = "#blog"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "contact"
