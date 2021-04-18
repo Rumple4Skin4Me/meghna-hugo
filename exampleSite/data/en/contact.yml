@@ -13,8 +13,6 @@ contact:
     info: 'Phone: +1-315-525-4363'
   - icon: ti-location-pin
     info: Rome, NY, USA
-  - icon: ti-site
-    info: https://www.joshthompson.photo/work
   contact_form:
     enable: true
     form_action: "#"
