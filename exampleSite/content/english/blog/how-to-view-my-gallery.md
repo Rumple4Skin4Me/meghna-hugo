@@ -4,7 +4,7 @@ date = 2021-04-18T06:00:00Z
 description = ""
 image = "/images/jamie.jpg"
 image_webp = "/images/kiss.jpg"
-title = "How to View My Gallery:"
+title = "My Portfolio:"
 
 +++
 I have my portfolio on my other site:
