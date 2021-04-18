@@ -1,7 +1,7 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image: images/mountain.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: Beautiful Photos and Flexible Ownership
   content: Photos that focus on folks and not filters.  Unrestricted ownership.
