@@ -13,7 +13,8 @@ portfolio:
   - name: Pet
     image: images/Annie.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories: []
+    categories:
+    - pets
     content: ''
     link: ''
   - name: Portraits
