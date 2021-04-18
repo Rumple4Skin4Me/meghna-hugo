@@ -4,20 +4,14 @@ pricing:
   title: Our Plans
   pricing_table:
   - name: Wedding
-    price: "$3,000"
-    unit: 10 hours
+    price: "$1,900"
+    unit: 6 hours
     services:
-    - "$2,500 / 8 hr"
-    - "$2,000 / 6 hr"
+    - "$2,499 / 8 hr"
+    - "$2,999 / 8 hr"
+    - "$150 / hr thereafter"
     - Personal Printing Rights
     - Digital Gallery of Edited Photos
-    button:
-      label: Signup
-      link: "#"
-  - name: Extra Coverage
-    price: "$150"
-    unit: per hour
-    services: []
     button:
       label: Signup
       link: "#"
