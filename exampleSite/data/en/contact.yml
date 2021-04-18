@@ -5,8 +5,6 @@ contact:
   subtitle: Contact Details
   content: Please contact me however you're comfortable.
   contact_list:
-  - icon: ti-site
-    info: https://www.joshthompson.photo/work
   - icon: ti-instagram
     info: "@JoshThompson.Photo"
   - icon: ti-email
@@ -15,6 +13,8 @@ contact:
     info: 'Phone: +1-315-525-4363'
   - icon: ti-location-pin
     info: Rome, NY, USA
+  - icon: ti-site
+    info: https://www.joshthompson.photo/work
   contact_form:
     enable: true
     form_action: "#"
