@@ -12,7 +12,7 @@ service:
     icon: ti-camera
     content: Do you need senior photos?  Or perhaps photos for your deployed family?
   - name: Family Photos
-    icon: ti-people
+    icon: ti-camera
     content: Having a family reunion?  It's a great time to capture the memories as
       well as getting photos of each nuclear family.
   - name: Anniversaries
