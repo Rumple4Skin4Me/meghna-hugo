@@ -1,7 +1,7 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
+  image: images/about/road.jpg
   image_webp: images/about/about-business-man.webp
   title: Great Features and Professional Editing
   content: Own the photos you pay for!  Look better than you do!
