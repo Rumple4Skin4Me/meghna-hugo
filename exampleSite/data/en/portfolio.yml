@@ -27,13 +27,13 @@ portfolio:
     categories: ''
     content: ''
     link: ''
-  - name: Tag Portrait
+  - name: ''
     image: images/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
     - portrait
     content: ''
-    link: https://themefisher.com
+    link: https://www.instagram.com/joshthompson.photo/
   - name: Portraits
     image: images/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
