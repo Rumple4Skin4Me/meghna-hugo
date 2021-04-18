@@ -3,7 +3,7 @@ portfolio:
   enable: false
   title: Our Works
   portfolio_item:
-  - name: ''
+  - name: Portraits
     image: images/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
@@ -17,14 +17,14 @@ portfolio:
     - portrait
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: ''
+  - name: Portraits
     image: images/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
     - portrait
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
-  - name: ''
+  - name: Portraits
     image: images/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
