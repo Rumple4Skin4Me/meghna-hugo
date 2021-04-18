@@ -10,12 +10,11 @@ portfolio:
     - portrait
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
-  - name: Portraits
-    image: images/portfolio-2.jpg
+  - name: Pet
+    image: images/Annie.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - portrait
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: ''
     link: ''
   - name: Portraits
     image: images/portfolio-3.jpg
