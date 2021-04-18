@@ -34,16 +34,16 @@ name = "pricing"
 url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
+name = "FAQ"
+url = "#FAQ"
 weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
 [[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
+name = "Instagram"
+url = "https://www.instagram.com/joshthompson.photo/"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
