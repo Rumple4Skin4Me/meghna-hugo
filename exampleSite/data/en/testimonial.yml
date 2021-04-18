@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Colin Leuze
-    image: images/Colin.jpg
-    image_webp: images/Colin.jpg
+    image: images/colin.jpg
+    image_webp: images/colin.jpg
     date: 04/16/2021
     content: He effortlessly got great photos and made everyone feel comfortable.  And
       I really like that I got copies of the photos to share on social media.
