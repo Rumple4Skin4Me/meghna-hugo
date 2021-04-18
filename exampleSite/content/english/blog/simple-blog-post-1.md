@@ -1,6 +1,6 @@
 ---
 title: About Me
-date: 2021-04-01T02:52:36-04:00
+date: 2001-09-01T02:00:00-04:00
 image_webp: "/images/josh.jpg"
 image: "/images/josh.jpg"
 author: Josh Thompson
