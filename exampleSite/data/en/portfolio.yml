@@ -67,8 +67,8 @@ portfolio:
     image_webp: images/portfolio/portfolio-6.webp
     categories:
     - Weddings
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: ''
+    link: https://www.instagram.com/joshthompson.photo/
   - name: Business Card
     image: images/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
