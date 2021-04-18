@@ -1,9 +1,9 @@
 baseURL = "https://joshthompson.photo"
-disableLanguages = ["Fr"]
+disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = ""
 themesDir = "../.."
 title = "Josh Thompson Photography"
 [Languages.en]
