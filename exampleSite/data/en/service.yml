@@ -9,7 +9,7 @@ service:
       well as preparation, reception, and groom/bridal parties depending on the scope
       of your wedding.
   - name: Portraitures
-    icon: ti-smile
+    icon: ti-camera
     content: Do you need senior photos?  Or perhaps photos for your deployed family?
   - name: Family Photos
     icon: ti-people
