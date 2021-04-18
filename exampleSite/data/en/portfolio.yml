@@ -1,7 +1,7 @@
 ---
 portfolio:
-  enable: false
-  title: Our Works
+  enable: true
+  title: Portfolio
   portfolio_item:
   - name: Portraits
     image: images/portfolio-1.jpg
