@@ -23,5 +23,5 @@ service:
     icon: ti-diamond
     content: Tell the story of where your life together began.
   - name: Pets
-    icon: ti-dog
+    icon: ti-cat
     content: If your pet is a big part of your life, have photos worth framing.
