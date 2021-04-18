@@ -45,8 +45,7 @@ portfolio:
     image: images/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
-    - design
-    - development
+    - portrait
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
