@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Portfolio
   portfolio_item:
   - name: Portraits
     image: images/Alison_1058.jpg
