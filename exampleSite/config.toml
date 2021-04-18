@@ -73,8 +73,8 @@ name = "tarification"
 url = "#pricing"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
+name = "FAQ"
+url = "#FAQ"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "contact"
