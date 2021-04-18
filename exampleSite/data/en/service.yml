@@ -20,7 +20,7 @@ service:
     content: Mark special anniversaries in your family by giving the gift of professional
       photos.
   - name: Engagement
-    icon: ti-ring
+    icon: ti-diamond
     content: Tell the story of where your life together began.
   - name: Pets
     icon: ti-dog
