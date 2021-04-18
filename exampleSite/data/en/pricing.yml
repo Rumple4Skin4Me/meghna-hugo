@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Weddgins
+  - name: Weddings
     price: "$1,999"
     unit: 6-hours
     services:
