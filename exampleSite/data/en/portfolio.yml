@@ -1,32 +1,8 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Our Works
   portfolio_item:
-  - name: ''
-    image: images/portfolio-13.jpg
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: https://www.instagram.com/joshthompson.photo/
-  - name: ''
-    image: images/portfolio-12.jpg
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: https://www.instagram.com/joshthompson.photo/
-  - name: ''
-    image: images/portfolio-11.jpg
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: https://www.instagram.com/joshthompson.photo/
-  - name: ''
-    image: images/portfolio-10.jpg
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: https://www.instagram.com/joshthompson.photo/
   - name: ''
     image: images/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
