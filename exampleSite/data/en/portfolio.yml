@@ -34,14 +34,14 @@ portfolio:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
+    image: images/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
+    image: images/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
     - photography
