@@ -82,11 +82,10 @@ portfolio:
     - Weddings
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
-  - name: Tag Design
+  - name: ''
     image: images/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - design
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    - portraits
+    content: ''
+    link: ''
