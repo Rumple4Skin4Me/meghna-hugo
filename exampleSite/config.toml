@@ -94,7 +94,7 @@ post_share = true
 enable = false
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "43.21871247512106"
 map_longitude = "-75.37712520339522"
@@ -127,20 +127,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/joshthompson.photo/"
 [[params.social]]
 icon = "ti-pinterest"
 link = "#"
