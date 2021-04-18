@@ -22,7 +22,6 @@ feature:
     content: Your photos will be available to you in an encrypted vault online where
       you can keep them as a backup and share each photo individually or in groups
       with your family and friends or not at all- the freedom and flexibility is yours.
-  - title: Easy Customization
+  - title: ''
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: ''
