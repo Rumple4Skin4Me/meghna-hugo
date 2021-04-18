@@ -23,7 +23,7 @@ pricing:
     button: ''
   - name: 2nd Shooter
     price: "$500"
-    unit: per photographer
+    unit: photographer
     services: ''
     button: ''
   - name: Portraits
