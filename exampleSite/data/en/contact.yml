@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Contact Me
   subtitle: Contact Details
-  content: Please contact me however you like.
+  content: Please contact me however you're comfortable.
   contact_list:
   - icon: ti-instagram
     info: "@JoshThompson.Photo"
