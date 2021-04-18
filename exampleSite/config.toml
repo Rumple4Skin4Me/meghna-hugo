@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = ""
+theme = "theme"
 themesDir = "../.."
 title = "Josh Thompson Photography"
 [Languages.en]
