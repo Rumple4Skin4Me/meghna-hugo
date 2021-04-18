@@ -10,11 +10,5 @@ team:
     content: Professional photographer for 8 years, working independently and with
       other teams.
     social:
-    - icon: ti-facebook
-      link: "#https://www.instagram.com/joshthompson.photo/"
-    - icon: ti-twitter-alt
-      link: "#https://www.instagram.com/joshthompson.photo/"
-    - icon: ti-linkedin
-      link: "#https://www.instagram.com/joshthompson.photo/"
     - icon: ti-instagram
       link: "#joshthompson.photo"
