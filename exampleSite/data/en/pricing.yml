@@ -40,7 +40,8 @@ pricing:
   - name: Engagement
     price: "500"
     unit: 2 hours
-    services: ''
+    services:
+    - "$300 / 1 hr"
     button: ''
   - name: Engagement
     price: "$300"
