@@ -75,13 +75,13 @@ portfolio:
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Stationary Design
+  - name: ''
     image: images/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
     categories:
     - Weddings
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    content: ''
+    link: https://www.instagram.com/joshthompson.photo/
   - name: Tag Design
     image: images/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
