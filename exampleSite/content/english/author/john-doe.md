@@ -1,6 +1,6 @@
 ---
 title: Josh Thompson
-image: ''
+image: images/josh.jpg
 email: Josh@JoshThompson.photo
 social:
 - icon: ti-instagram
