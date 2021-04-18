@@ -4,7 +4,7 @@ service:
   title: Our Services
   service_item:
   - name: Wedding Photos
-    icon: ti-wedding
+    icon: ti-camera
     content: I provide several different packages covering the wedding itself, as
       well as preparation, reception, and groom/bridal parties depending on the scope
       of your wedding.
