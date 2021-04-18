@@ -49,7 +49,7 @@ portfolio:
     image: images/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
     categories:
-    - cake
+    - weddings
     content: ''
     link: https://www.instagram.com/joshthompson.photo/
   - name: Weddings
