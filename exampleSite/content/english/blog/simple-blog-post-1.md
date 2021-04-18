@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 date: 2021-04-01T02:52:36-04:00
 image_webp: "/images/josh.jpg"
 image: "/images/josh.jpg"
