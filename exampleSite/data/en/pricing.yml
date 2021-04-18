@@ -8,15 +8,7 @@ pricing:
     unit: 10 hours
     services:
     - "$2,500 / 8 hr"
-    - Personal Printing Rights
-    - Digital Gallery of Edited Photos
-    button:
-      label: Signup
-      link: "#"
-  - name: Wedding
-    price: "$2,000"
-    unit: 6 hours
-    services:
+    - "$2,000 / 6 hr"
     - Personal Printing Rights
     - Digital Gallery of Edited Photos
     button:
