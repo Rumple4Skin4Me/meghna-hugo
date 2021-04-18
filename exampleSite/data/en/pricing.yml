@@ -1,43 +1,64 @@
----
+##################################### pricing ##############################
 pricing:
-  enable: false
-  title: Price Schedule
-  pricing_table:
-  - name: Wedding
-    price: $1,900
-    unit: 6 hours
-    services:
-    - "$2,499 / 8 hr"
-    - "$2,999 / 8 hr"
-    - "$150 / hr thereafter"
-    - Personal Printing Rights
-    - Digital Gallery of Edited Photos
-    button:
-      label: Signup
-      link: "#"
+  enable : true
+  title : Our Plans
+  pricing_table :
+    # pricing table loop
+    - name : Free
+      price : $99
+      unit : month
+      services:
+        - 1GB Disk Space
+        - 10 Email Account
+        - Script Installer
+        - 1 GB Storage
+        - 10 GB Bandwidth
+        - 24/7 Tech Support
+      button:
+        label : "Signup"
+        link : "#"
       
-  - name: Engagement
-    price: "$500"
-    unit: 2 hours
-    services:
-    - "$300 / 1 hr"
-    button:
-      label: Signup
-      link: "#"
-    
-  - name: 2nd Shooter
-    price: "$500"
-    unit: photographer
-    services: ''
-    button:
-      label: Signup
-      link: "#"
-      
-  - name: Portraits
-    price: "$350"
-    unit: 1 hour
-    services:
-    - additional coverage $75/hr
-    button:
-      label: Signup
-      link: "#"
+    # pricing table loop
+    - name : Silver
+      price : $149
+      unit : month
+      services:
+        - 1GB Disk Space
+        - 10 Email Account
+        - Script Installer
+        - 1 GB Storage
+        - 10 GB Bandwidth
+        - 24/7 Tech Support
+      button:
+        label : "Signup"
+        link : "#"
+        
+    # pricing table loop
+    - name : Gold
+      price : $199
+      unit : month
+      services:
+        - 1GB Disk Space
+        - 10 Email Account
+        - Script Installer
+        - 1 GB Storage
+        - 10 GB Bandwidth
+        - 24/7 Tech Support
+      button:
+        label : "Signup"
+        link : "#"
+        
+    # pricing table loop
+    - name : Platinum
+      price : $299
+      unit : month
+      services:
+        - 1GB Disk Space
+        - 10 Email Account
+        - Script Installer
+        - 1 GB Storage
+        - 10 GB Bandwidth
+        - 24/7 Tech Support
+      button:
+        label : "Signup"
+        link : "#"
