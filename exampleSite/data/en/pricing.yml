@@ -4,7 +4,7 @@ pricing:
   title: Price Schedule
   pricing_table:
   - name: Wedding
-    price: "$1,900"
+    price: $1,900
     unit: 6 hours
     services:
     - "$2,499 / 8 hr"
@@ -15,20 +15,29 @@ pricing:
     button:
       label: Signup
       link: "#"
+      
   - name: Engagement
     price: "$500"
     unit: 2 hours
     services:
     - "$300 / 1 hr"
-    button: ''
+    button:
+      label: Signup
+      link: "#"
+    
   - name: 2nd Shooter
     price: "$500"
     unit: photographer
     services: ''
-    button: ''
+    button:
+      label: Signup
+      link: "#"
+      
   - name: Portraits
     price: "$350"
     unit: 1 hour
     services:
     - additional coverage $75/hr
-    button: ''
+    button:
+      label: Signup
+      link: "#"
