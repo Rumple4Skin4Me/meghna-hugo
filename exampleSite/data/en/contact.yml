@@ -11,10 +11,10 @@ contact:
     info: 'Email: info@JoshThompson.photo'
   - icon: ti-mobile
     info: 'Phone: +1-315-525-4363'
-  - icon: ti-site
-    info: https://www.joshthompson.photo/work
   - icon: ti-location-pin
     info: Rome, NY, USA
+  - icon: ti-square
+    info: joshthompson.photo
   contact_form:
     enable: false
     form_action: "#"
