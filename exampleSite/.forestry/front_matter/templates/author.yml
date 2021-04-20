@@ -11,6 +11,7 @@ fields:
 - type: text
   name: email
   label: email
+  description: inquiries@joshthompson.photo
 - type: field_group_list
   name: social
   label: social
@@ -21,3 +22,4 @@ fields:
   - type: text
     name: link
     label: link
+  description: "@joshthompson.photo"
