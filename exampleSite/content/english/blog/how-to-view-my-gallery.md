@@ -9,7 +9,7 @@ title = "My Portfolio:"
 +++
 I have my portfolio on my other site:
 
-[https://joshuathompsonphotos.squarespace.com/work](https://joshuathompsonphotos.squarespace.com/work "https://joshuathompsonphotos.squarespace.com/work")
+JoshThompson.photo
 
 And you can also view my personal photos and contact me on Instagram:
 
