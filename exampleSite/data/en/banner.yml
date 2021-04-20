@@ -4,8 +4,8 @@ banner:
   bg_image_webp: images/rose.jpg
   bg_image: images/rose.jpg
   icon: ''
-  title: <meta name="google-site-verification" content="QbfYy46_mrn6BS436KOe1HWE1PV4VjdBnXcjTOFq8mY"
-    />Josh Thompson Photography
+  title: Josh Thompson Photography<meta name="google-site-verification" content="QbfYy46_mrn6BS436KOe1HWE1PV4VjdBnXcjTOFq8mY"
+    />
   content: "Rome, NY photographer   \nSpecialist in Weddings and Portraits"
   button:
     enable: true
