@@ -14,7 +14,7 @@ contact:
   - icon: ti-location-pin
     info: Rome, NY, USA
   - icon: ti-square
-    info: joshthompson.photo
+    info: JoshThompson.photo
   contact_form:
     enable: false
     form_action: "#"
