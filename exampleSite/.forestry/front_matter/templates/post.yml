@@ -21,7 +21,9 @@ fields:
 - type: text
   name: description
   label: description
-  description: meta description
+  description: '&lt;meta name="google-site-verification" content="QbfYy46_mrn6BS436KOe1HWE1PV4VjdBnXcjTOFq8mY"
+    /&gt;'
+  hidden: true
 pages:
 - exampleSite/content/english/blog/how-to-access-your-photos.md
 - exampleSite/content/english/blog/how-to-view-my-gallery.md
