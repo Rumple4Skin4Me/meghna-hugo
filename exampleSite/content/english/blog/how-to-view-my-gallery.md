@@ -1,7 +1,7 @@
 +++
 author = "Josh Thompson"
 date = 2021-04-18T06:00:00Z
-description = ""
+description = "Rome, NY photographer"
 image = "/images/jamie.jpg"
 image_webp = "/images/kiss.jpg"
 title = "My Portfolio:"
