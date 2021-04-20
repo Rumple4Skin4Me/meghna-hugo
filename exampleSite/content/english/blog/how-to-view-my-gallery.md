@@ -9,7 +9,7 @@ title = "My Portfolio:"
 +++
 I have my portfolio on my other site:
 
-JoshThompson.photo
+[JoshThompson.photo](https://www.joshthompson.photo "Joshthompson.photo")
 
 And you can also view my personal photos and contact me on Instagram:
 
