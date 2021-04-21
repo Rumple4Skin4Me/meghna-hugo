@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Josh Thompson Photography"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021  Portfolio:  [Weddings and Engagements](https://www.joshthompson.photo/work/soria-antoine-9nt82) & [Portraiture](https://www.joshthompson.photo/work/madison-lenoix-6gdx3)"
+copyright = "Copyright &copy; 2021;  Portfolio:  [Weddings and Engagements](https://www.joshthompson.photo/work/soria-antoine-9nt82) & [Portraiture](https://www.joshthompson.photo/work/madison-lenoix-6gdx3) & [Instagram](https://instagram.com/joshthompson.photo)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
