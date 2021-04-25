@@ -132,3 +132,4 @@ link = "https://www.instagram.com/joshthompson.photo/"
 [[params.social]]
 icon = "ti-gallery"
 link = "https://www.joshthompson.photo/work"
+googleAnalytics = "UA-195420925-1"
